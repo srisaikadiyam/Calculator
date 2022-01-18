@@ -1,0 +1,8 @@
+---
+  testing git workflow ------
+
+  git add 
+  git commit -m "message"
+  git push origin branch
+  ---------------------------------------
+  git pull origin dev --------------- from remote place to local workplace 
