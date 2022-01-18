@@ -5,4 +5,10 @@
   git commit -m "message"
   git push origin branch
   ---------------------------------------
-  git pull origin dev --------------- from remote place to local workplace 
+  git pull origin dev --------------- from remote place to local 
+  
+  testing remote to local ---------------
+  
+  git pull origin master -------------- remote full 
+  
+  git fetch origin master ------------- modification
