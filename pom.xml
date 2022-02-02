@@ -11,9 +11,6 @@
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
-    </properties>
-         
-     <properties>
         <sonar.host.url>http://13.233.197.155:9000</sonar.host.url>
     </properties>
 
